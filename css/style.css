@@ -1,24 +1,23 @@
 @font-face {
    font-family: 'HarmonyOS Sans SC';
-   src: url('HarmonyOS_Sans_SC.ttf');
+   src: url('https://cdn.jsdelivr.net/gh/Initial-heart-1/Amiya-Bot-Pages-Initial_heart/css/HarmonyOS_Sans_SC.ttf');
 }
 
 body{
     margin:0;
-    font-family:"HarmonyOS Sans SC";
 }
 
 *{
     box-sizing:border-box;
-    font-family:"HarmonyOS Sans SC";
     font-size:15px;
+    font-family:"HarmonyOS Sans SC";
+    line-height:30px;
 }
 
 #app{
     width:100vw;
     height:100vh;
     border-top:10px solid #ba68c8;
-    font-family:"HarmonyOS Sans SC";
 }
 
 #content{
@@ -27,5 +26,4 @@ body{
     font-size:15px;
     padding:0 15px 30px;
     overflow:auto;
-    font-family:"HarmonyOS Sans SC";
 }
