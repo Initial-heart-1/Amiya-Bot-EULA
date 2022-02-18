@@ -137,3 +137,5 @@ Tips：**在任何情况下，您不应轻信借款、索要密码或其他涉�
 
 
 Initial_heart
+
+Copyright © 2021-2022 Initial_heart. All Rights Reserved. [开放源代码软件项目许可证](https://initoslc.amiya.cn/)
